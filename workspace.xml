@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47a5037b-b0ac-4d9a-a086-5cb98f642b22" name="Changes" comment="" />
+    <list default="true" id="8021f97c-a8c4-4ee8-89f0-ed8ccb5da89e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KPieCbIZevSZ3tQHjStUBd5ndC" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KPmId8DojsZutBN7WHgd2LpZL8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,16 +29,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FoodBox FrontEnd(Angular)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47a5037b-b0ac-4d9a-a086-5cb98f642b22" name="Changes" comment="" />
-      <created>1673882711593</created>
+      <changelist id="8021f97c-a8c4-4ee8-89f0-ed8ccb5da89e" name="Changes" comment="" />
+      <created>1673884515348</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673882711593</updated>
+      <updated>1673884515348</updated>
     </task>
     <servers />
   </component>
